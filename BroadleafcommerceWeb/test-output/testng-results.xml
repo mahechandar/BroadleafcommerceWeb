@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="299916" started-at="2015-01-04T17:48:49Z" finished-at="2015-01-04T17:53:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="299916" started-at="2015-01-04T17:48:49Z" finished-at="2015-01-04T17:53:49Z">
+      <class name="BroadleafcommerceWeb.Automation.DB7_Reguser_Chkout_ByRegister">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB7_Reguser_Chkout_ByRegister@1460d0eb]" name="InvokeBrowser" is-config="true" duration-ms="9790" started-at="2015-01-04T12:50:20Z" finished-at="2015-01-04T12:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB7_reguser_chkout_byRegister()[pri:0, instance:BroadleafcommerceWeb.Automation.DB7_Reguser_Chkout_ByRegister@1460d0eb]" name="DB7_reguser_chkout_byRegister" duration-ms="30226" started-at="2015-01-04T12:50:30Z" finished-at="2015-01-04T12:51:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB7_reguser_chkout_byRegister -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB7_Reguser_Chkout_ByRegister@1460d0eb]" name="CloseBrowser" is-config="true" duration-ms="560" started-at="2015-01-04T12:51:00Z" finished-at="2015-01-04T12:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB7_Reguser_Chkout_ByRegister -->
+      <class name="BroadleafcommerceWeb.Automation.DB3_Reguser_Checkout">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB3_Reguser_Checkout@876e4b8]" name="InvokeBrowser" is-config="true" duration-ms="10246" started-at="2015-01-04T12:48:49Z" finished-at="2015-01-04T12:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB3_reguser_checkout()[pri:0, instance:BroadleafcommerceWeb.Automation.DB3_Reguser_Checkout@876e4b8]" name="DB3_reguser_checkout" duration-ms="31344" started-at="2015-01-04T12:48:59Z" finished-at="2015-01-04T12:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB3_reguser_checkout -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB3_Reguser_Checkout@876e4b8]" name="CloseBrowser" is-config="true" duration-ms="535" started-at="2015-01-04T12:49:31Z" finished-at="2015-01-04T12:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB3_Reguser_Checkout -->
+      <class name="BroadleafcommerceWeb.Automation.DB4_RegUserchkout_SameBillingShipping">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB4_RegUserchkout_SameBillingShipping@70da3e7]" name="InvokeBrowser" is-config="true" duration-ms="8723" started-at="2015-01-04T12:51:01Z" finished-at="2015-01-04T12:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB4_regUserchkout_sameBillingShipping()[pri:0, instance:BroadleafcommerceWeb.Automation.DB4_RegUserchkout_SameBillingShipping@70da3e7]" name="DB4_regUserchkout_sameBillingShipping" duration-ms="31308" started-at="2015-01-04T12:51:10Z" finished-at="2015-01-04T12:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB4_regUserchkout_sameBillingShipping -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB4_RegUserchkout_SameBillingShipping@70da3e7]" name="CloseBrowser" is-config="true" duration-ms="502" started-at="2015-01-04T12:51:41Z" finished-at="2015-01-04T12:51:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB4_RegUserchkout_SameBillingShipping -->
+      <class name="BroadleafcommerceWeb.Automation.DB1_Registration">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB1_Registration@62deaa2e]" name="InvokeBrowser" is-config="true" duration-ms="8680" started-at="2015-01-04T12:52:20Z" finished-at="2015-01-04T12:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB1_registration()[pri:0, instance:BroadleafcommerceWeb.Automation.DB1_Registration@62deaa2e]" name="DB1_registration" duration-ms="8312" started-at="2015-01-04T12:52:29Z" finished-at="2015-01-04T12:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB1_registration -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB1_Registration@62deaa2e]" name="CloseBrowser" is-config="true" duration-ms="548" started-at="2015-01-04T12:52:37Z" finished-at="2015-01-04T12:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB1_Registration -->
+      <class name="BroadleafcommerceWeb.Automation.DB1_Guest_Checkout">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB1_Guest_Checkout@30b98167]" name="InvokeBrowser" is-config="true" duration-ms="8497" started-at="2015-01-04T12:51:42Z" finished-at="2015-01-04T12:51:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB1_guest_checkout()[pri:0, instance:BroadleafcommerceWeb.Automation.DB1_Guest_Checkout@30b98167]" name="DB1_guest_checkout" duration-ms="29386" started-at="2015-01-04T12:51:50Z" finished-at="2015-01-04T12:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB1_guest_checkout -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB1_Guest_Checkout@30b98167]" name="CloseBrowser" is-config="true" duration-ms="568" started-at="2015-01-04T12:52:19Z" finished-at="2015-01-04T12:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB1_Guest_Checkout -->
+      <class name="BroadleafcommerceWeb.Automation.DB2_Guestchkout_SameBilingShipping">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB2_Guestchkout_SameBilingShipping@35a1f05f]" name="InvokeBrowser" is-config="true" duration-ms="8700" started-at="2015-01-04T12:52:38Z" finished-at="2015-01-04T12:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB2_guestchkout_sameBilingShipping()[pri:0, instance:BroadleafcommerceWeb.Automation.DB2_Guestchkout_SameBilingShipping@35a1f05f]" name="DB2_guestchkout_sameBilingShipping" duration-ms="28398" started-at="2015-01-04T12:52:46Z" finished-at="2015-01-04T12:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB2_guestchkout_sameBilingShipping -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB2_Guestchkout_SameBilingShipping@35a1f05f]" name="CloseBrowser" is-config="true" duration-ms="586" started-at="2015-01-04T12:53:15Z" finished-at="2015-01-04T12:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB2_Guestchkout_SameBilingShipping -->
+      <class name="BroadleafcommerceWeb.Automation.DB5_BrowseProduct">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB5_BrowseProduct@759a2097]" name="InvokeBrowser" is-config="true" duration-ms="8520" started-at="2015-01-04T12:49:50Z" finished-at="2015-01-04T12:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB5_browseProduct()[pri:0, instance:BroadleafcommerceWeb.Automation.DB5_BrowseProduct@759a2097]" name="DB5_browseProduct" duration-ms="21050" started-at="2015-01-04T12:49:59Z" finished-at="2015-01-04T12:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB5_browseProduct -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB5_BrowseProduct@759a2097]" name="CloseBrowser" is-config="true" duration-ms="551" started-at="2015-01-04T12:50:20Z" finished-at="2015-01-04T12:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB5_BrowseProduct -->
+      <class name="BroadleafcommerceWeb.Automation.DB6_Search_Product">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB6_Search_Product@59d1d5d2]" name="InvokeBrowser" is-config="true" duration-ms="8896" started-at="2015-01-04T12:53:15Z" finished-at="2015-01-04T12:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB6_search_product()[pri:0, instance:BroadleafcommerceWeb.Automation.DB6_Search_Product@59d1d5d2]" name="DB6_search_product" duration-ms="24086" started-at="2015-01-04T12:53:24Z" finished-at="2015-01-04T12:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB6_search_product -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB6_Search_Product@59d1d5d2]" name="CloseBrowser" is-config="true" duration-ms="630" started-at="2015-01-04T12:53:48Z" finished-at="2015-01-04T12:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB6_Search_Product -->
+      <class name="BroadleafcommerceWeb.Automation.DB2_Login_Logout">
+        <test-method status="PASS" signature="InvokeBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB2_Login_Logout@6033fec0]" name="InvokeBrowser" is-config="true" duration-ms="8908" started-at="2015-01-04T12:49:31Z" finished-at="2015-01-04T12:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method status="PASS" signature="DB2_login_logout()[pri:0, instance:BroadleafcommerceWeb.Automation.DB2_Login_Logout@6033fec0]" name="DB2_login_logout" duration-ms="9827" started-at="2015-01-04T12:49:40Z" finished-at="2015-01-04T12:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DB2_login_logout -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:BroadleafcommerceWeb.Automation.DB2_Login_Logout@6033fec0]" name="CloseBrowser" is-config="true" duration-ms="523" started-at="2015-01-04T12:49:50Z" finished-at="2015-01-04T12:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- BroadleafcommerceWeb.Automation.DB2_Login_Logout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
